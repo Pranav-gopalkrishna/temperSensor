@@ -2,7 +2,7 @@ We need to download and install a library called Adafruit_DHT, provided by Adafr
 
 (Note: All the following actions are to be done in the terminal, unless stated otherwise)
 
-First, download the library from GitHub. It helps organise your workspace  if you create a folder to place the file in.
+First, download the library from GitHub. It helps organise your workspace  if you create a folder to place the library in.
 ------------
 Second, download the files related to the library using the function:
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
